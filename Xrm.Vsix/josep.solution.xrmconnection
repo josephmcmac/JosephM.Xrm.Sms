@@ -1,0 +1,46 @@
+[
+  {
+    "Key": "Active",
+    "Value": "True"
+  },
+  {
+    "Key": "HideActive",
+    "Value": "False"
+  },
+  {
+    "Key": "Name",
+    "Value": "VM SMS"
+  },
+  {
+    "Key": "UseXrmToolingConnector",
+    "Value": "False"
+  },
+  {
+    "Key": "ToolingConnectionId",
+    "Value": null
+  },
+  {
+    "Key": "AuthenticationProviderType",
+    "Value": "ActiveDirectory"
+  },
+  {
+    "Key": "DiscoveryServiceAddress",
+    "Value": "http:\/\/qa2012\/XRMServices\/2011\/Discovery.svc"
+  },
+  {
+    "Key": "OrganizationUniqueName",
+    "Value": "SMS"
+  },
+  {
+    "Key": "Domain",
+    "Value": "auqa2012"
+  },
+  {
+    "Key": "Username",
+    "Value": "joseph"
+  },
+  {
+    "Key": "Password",
+    "Value": "AQAAANCMnd8BFdERjHoAwE\/Cl+sBAAAAhKMdQKoH7E6gyhDOgdFf+wAAAAACAAAAAAAQZgAAAAEAACAAAAAt\/BGFShR9\/\/VZI1siRpg2JlFJDhQiyzXTi2bNojlmwQAAAAAOgAAAAAIAACAAAABT6AqmJprRtIdhAN9NRMuMlxdNHZyAiRmnPPOdaPbV1SAAAABcFb5Rb+AVeZ+\/AAc97FQn38zAV3lO1xeYHP3kGIILZkAAAADIMbOXO\/K0OPv0VPq8dN+ciBr91eoBb0F\/J0\/dgQ2MLhRVQjgV68dHsakzxll00bhOHCSxb1H7vFDZP90e3jP2"
+  }
+]

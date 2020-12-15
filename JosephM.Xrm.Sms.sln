@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephM.Xrm.Sms.Plugins", "JosephM.Xrm.Sms.Plugins\JosephM.Xrm.Sms.Plugins.csproj", "{2CC0419A-9CDF-46AF-8F7B-4839DD5F39B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephM.Xrm.Sms.Plugins.Test", "JosephM.Xrm.Sms.Plugins.Test\JosephM.Xrm.Sms.Plugins.Test.csproj", "{F59E6AEF-2023-472F-988B-23B5FBBE3322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephM.Xrm.Sms.WebResources", "JosephM.Xrm.Sms.WebResources\JosephM.Xrm.Sms.WebResources.csproj", "{8BC56C3D-4289-4507-B0D9-321DF90F3E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephM.Xrm.Sms.Console", "JosephM.Xrm.Sms.Console\JosephM.Xrm.Sms.Console.csproj", "{147ACA64-2605-4157-9AED-B512B3E327CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xrm.Vsix", "Xrm.Vsix", "{CB52CEC4-B2AD-48C5-B59B-436D23A01F77}"
+	ProjectSection(SolutionItems) = preProject
+		Xrm.Vsix\josep.solution.xrmconnection = Xrm.Vsix\josep.solution.xrmconnection
+		Xrm.Vsix\josep.xrmpackage.xrmsettings = Xrm.Vsix\josep.xrmpackage.xrmsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Customisations", "Customisations", "{EAD1B2A0-8FE8-40EF-8DF7-A22013C7AA26}"
+	ProjectSection(SolutionItems) = preProject
+		Customisations\SMS Customisations.xlsx = Customisations\SMS Customisations.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC0419A-9CDF-46AF-8F7B-4839DD5F39B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC0419A-9CDF-46AF-8F7B-4839DD5F39B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC0419A-9CDF-46AF-8F7B-4839DD5F39B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC0419A-9CDF-46AF-8F7B-4839DD5F39B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59E6AEF-2023-472F-988B-23B5FBBE3322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59E6AEF-2023-472F-988B-23B5FBBE3322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59E6AEF-2023-472F-988B-23B5FBBE3322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59E6AEF-2023-472F-988B-23B5FBBE3322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC56C3D-4289-4507-B0D9-321DF90F3E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC56C3D-4289-4507-B0D9-321DF90F3E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC56C3D-4289-4507-B0D9-321DF90F3E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC56C3D-4289-4507-B0D9-321DF90F3E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147ACA64-2605-4157-9AED-B512B3E327CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147ACA64-2605-4157-9AED-B512B3E327CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147ACA64-2605-4157-9AED-B512B3E327CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147ACA64-2605-4157-9AED-B512B3E327CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82BBB24-4DCB-4CFC-AE8F-C35134BE681E}
+	EndGlobalSection
+EndGlobal

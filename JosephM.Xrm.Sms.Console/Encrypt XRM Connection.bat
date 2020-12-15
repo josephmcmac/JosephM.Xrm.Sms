@@ -1,0 +1,1 @@
+JosephM.Xrm.Sms.Console.exe -xrmsetting
