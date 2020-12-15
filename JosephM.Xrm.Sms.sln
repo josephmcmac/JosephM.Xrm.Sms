@@ -22,6 +22,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Customisations", "Customisa
 		Customisations\SMS Customisations.xlsx = Customisations\SMS Customisations.xlsx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Releases", "Releases", "{C1F09BAA-002F-42FF-A3C0-0C4D3A391D2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0.0.0", "1.0.0.0", "{67DFFEB2-6529-4398-BE5C-89F296D199A9}"
+	ProjectSection(SolutionItems) = preProject
+		Releases\1.0.0.0\JosephMcGregorSMS_1_0_0_0.zip = Releases\1.0.0.0\JosephMcGregorSMS_1_0_0_0.zip
+		Releases\1.0.0.0\JosephMcGregorSMS_1_0_0_0_managed.zip = Releases\1.0.0.0\JosephMcGregorSMS_1_0_0_0_managed.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +55,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67DFFEB2-6529-4398-BE5C-89F296D199A9} = {C1F09BAA-002F-42FF-A3C0-0C4D3A391D2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A82BBB24-4DCB-4CFC-AE8F-C35134BE681E}
